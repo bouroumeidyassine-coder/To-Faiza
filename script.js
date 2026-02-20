@@ -17,7 +17,7 @@ const noMessages = [
     "diri yes... 😢",
     "hambouk 💔",
     "aya aya diri yes...",
-    "nabki 😭",
+    "mata9adriche diri no 😜",
     "mata9adriche diri no 😜"
 ]
 
