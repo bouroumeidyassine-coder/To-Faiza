@@ -18,7 +18,7 @@ const noMessages = [
     "hambouk 💔",
     "aya aya diri yes...",
     "nabki 😭",
-    "You can't catch me anyway 😜"
+    "mata9adriche diri no 😜"
 ]
 
 const yesTeasePokes = [
