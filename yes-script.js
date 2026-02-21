@@ -63,8 +63,3 @@ function toggleMusic() {
         document.getElementById('music-toggle').textContent = '🔊';
     }
 }
-
-        musicPlaying = true
-        document.getElementById('music-toggle').textContent = '🔊'
-    }
-}
